@@ -34,3 +34,4 @@ window = MainWindow()
 window.show()
 
 app.exec()
+# Тестим второй пуш
